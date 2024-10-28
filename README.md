@@ -20,13 +20,13 @@
 
 ## Environment Variable
 
-* `APP_ID` Get it From mytelegram.org
+* `27317669` Get it From mytelegram.org
 
-* `API_HASH` Get it From mytelegram.org
+* `11b88c331c5d44fde57cf91de1a2156b` Get it From mytelegram.org
 
-* `BOT_TOKEN` Get it from [@Botfather](https://t.me/botfather)
+* `7601672250:AAHEhocEstdy-gA1jwwuyA_kkOy0B6Qo-Qk` Get it from [@Botfather](https://t.me/botfather)
 
-* `CHANNEL` Add your forcesub channel id
+* `-1002332968763` Add your forcesub channel id
 
 * `Cookies.txt` Add your youtube cookies
 
